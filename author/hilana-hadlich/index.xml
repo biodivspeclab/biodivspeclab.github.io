@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hilana Hadlich | BiodivSpec Lab</title>
+    <link>http://localhost:4321/author/hilana-hadlich/</link>
+      <atom:link href="http://localhost:4321/author/hilana-hadlich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hilana Hadlich</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/author/hilana-hadlich/avatar_hu_451fe8407db53677.jpg</url>
+      <title>Hilana Hadlich</title>
+      <link>http://localhost:4321/author/hilana-hadlich/</link>
+    </image>
+    
+    <item>
+      <title>Hilana Hadlich</title>
+      <link>http://localhost:4321/author/hilana-hadlich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/author/hilana-hadlich/</guid>
+      <description>&lt;p&gt;Hilana Louise Hadlich graduated in Forest Engineering from UFPR in 2015 and completed her master&amp;rsquo;s degree in Tropical Forest Sciences at INPA in 2017, where she began her studies in near-infrared spectroscopy, developing this technology for application in Forest Inventories to ensure greater accuracy in species identification. In 2021, she entered the doctoral program and deepened her research with field spectroscopy, testing the technology in different ecosystems in the Amazon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

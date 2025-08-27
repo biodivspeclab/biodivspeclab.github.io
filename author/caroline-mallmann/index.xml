@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Mallmann | BiodivSpec Lab</title>
+    <link>http://localhost:4321/author/caroline-mallmann/</link>
+      <atom:link href="http://localhost:4321/author/caroline-mallmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Mallmann</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/author/caroline-mallmann/avatar_hu_3a4006820c51a3e8.jpg</url>
+      <title>Caroline Mallmann</title>
+      <link>http://localhost:4321/author/caroline-mallmann/</link>
+    </image>
+    
+    <item>
+      <title>Caroline Mallmann</title>
+      <link>http://localhost:4321/author/caroline-mallmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/author/caroline-mallmann/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

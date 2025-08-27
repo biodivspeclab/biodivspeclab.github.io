@@ -1,0 +1,18 @@
+{
+  "name": "BiodivSpec Lab",
+  "short_name": "BiodivSpec Lab",
+  "lang": "en-us",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
+  "icons": [{
+    "src": "/media/icon_hu_bf4831f3bf36bc3e.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu_cd4d5e7e5018acb8.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

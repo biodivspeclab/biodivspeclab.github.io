@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Clara Ferro | BiodivSpec Lab</title>
+    <link>http://localhost:4321/author/maria-clara-ferro/</link>
+      <atom:link href="http://localhost:4321/author/maria-clara-ferro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Clara Ferro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/author/maria-clara-ferro/avatar_hu_2e9e628ce178034f.jpg</url>
+      <title>Maria Clara Ferro</title>
+      <link>http://localhost:4321/author/maria-clara-ferro/</link>
+    </image>
+    
+    <item>
+      <title>Maria Clara Ferro</title>
+      <link>http://localhost:4321/author/maria-clara-ferro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/author/maria-clara-ferro/</guid>
+      <description>&lt;p&gt;Northern Brazilian, biologist, and biology teacher. She has experience in teaching, applied botany, taxonomy, and plant ecology, with a focus on the Amazon, conservation, and development of the state of Amazonas. She is currently conducting research in spectroscopy, aiming to improve and standardize spectroscopy techniques within botanical science.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

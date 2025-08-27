@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Vasconcelos | BiodivSpec Lab</title>
+    <link>http://localhost:4321/author/caroline-vasconcelos/</link>
+      <atom:link href="http://localhost:4321/author/caroline-vasconcelos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Caroline Vasconcelos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/author/caroline-vasconcelos/avatar_hu_2c9736c338dac1b5.jpeg</url>
+      <title>Caroline Vasconcelos</title>
+      <link>http://localhost:4321/author/caroline-vasconcelos/</link>
+    </image>
+    
+    <item>
+      <title>Caroline Vasconcelos</title>
+      <link>http://localhost:4321/author/caroline-vasconcelos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/author/caroline-vasconcelos/</guid>
+      <description>&lt;p&gt;Brazilian forestry engineer and botanist interested in taxonomy and systematics (with a focus on Neotropical Sapotaceae), Amazonian tree flora, spectroscopy as a tool for tree species identification, species distribution modeling, floristic studies, and forest ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
